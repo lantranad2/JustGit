@@ -1,2 +1,4 @@
 products
 1. a Macbook pro
+2. a keyboard
+3. a mouse
