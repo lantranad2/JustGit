@@ -1,0 +1,2 @@
+logout with 'H'.
+logout from Facebook.
